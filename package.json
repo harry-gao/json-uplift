@@ -1,0 +1,21 @@
+{
+  "name": "json-uplift",
+  "version": "0.0.6",
+  "description": "uplift json blob to json fields",
+  "main": "cli.js",
+  "bin": {
+    "json-uplift": "./cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "harry.gao",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^4.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/harry-gao/json-uplift"
+  }
+}
